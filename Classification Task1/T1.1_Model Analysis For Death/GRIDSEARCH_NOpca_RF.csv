@@ -1,0 +1,11 @@
+,Fold,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,bootstrap,Accuracy
+0,Fold_Externo_0-Fold_Interno_1,20,10,2,2,log2,False,0.7905762411347517
+1,Fold_Externo_0-Fold_Interno_2,20,10,2,2,sqrt,False,0.7919322211476467
+2,Fold_Externo_1-Fold_Interno_1,20,10,10,1,log2,False,0.7934127176015474
+3,Fold_Externo_1-Fold_Interno_2,20,10,10,2,sqrt,True,0.7856850419084462
+4,Fold_Externo_2-Fold_Interno_1,20,10,10,4,sqrt,False,0.7976704545454545
+5,Fold_Externo_2-Fold_Interno_2,20,10,2,2,sqrt,True,0.7913612185686654
+6,Fold_Externo_3-Fold_Interno_1,20,20,10,2,sqrt,True,0.793134671179884
+7,Fold_Externo_3-Fold_Interno_2,20,10,5,2,log2,True,0.7885271598968409
+8,Fold_Externo_4-Fold_Interno_1,20,10,2,4,sqrt,False,0.7965397324306899
+9,Fold_Externo_4-Fold_Interno_2,20,10,10,4,log2,False,0.7840530303030303

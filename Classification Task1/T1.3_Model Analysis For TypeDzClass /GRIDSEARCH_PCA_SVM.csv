@@ -1,0 +1,11 @@
+,Fold,C,Kernel,Degree,Gamma,Accuracy
+0,Fold_Externo_0-Fold_Interno_1,1,rbf,3,scale,0.6864389909735654
+1,Fold_Externo_0-Fold_Interno_2,1,linear,3,scale,0.7056443423597678
+2,Fold_Externo_1-Fold_Interno_1,1,linear,3,scale,0.6992105899419729
+3,Fold_Externo_1-Fold_Interno_2,1,rbf,3,scale,0.6979827530625403
+4,Fold_Externo_2-Fold_Interno_1,10,linear,3,scale,0.7054493068987749
+5,Fold_Externo_2-Fold_Interno_2,1,linear,3,scale,0.6942871534493875
+6,Fold_Externo_3-Fold_Interno_1,1,rbf,3,scale,0.6992089780786589
+7,Fold_Externo_3-Fold_Interno_2,1,linear,3,scale,0.7005371534493874
+8,Fold_Externo_4-Fold_Interno_1,1,rbf,3,scale,0.7116924564796905
+9,Fold_Externo_4-Fold_Interno_2,10,linear,3,scale,0.6915453739522889

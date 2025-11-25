@@ -1,0 +1,11 @@
+,Fold,C,Kernel,Degree,Gamma,Accuracy
+0,Fold_Externo_0-Fold_Interno_1,19.78590108359515,linear,4,auto,0.6137774016763379
+1,Fold_Externo_0-Fold_Interno_2,16.356470182090046,linear,4,auto,0.6156616698903933
+2,Fold_Externo_1-Fold_Interno_1,43.947078920893425,linear,5,scale,0.6049846872985171
+3,Fold_Externo_1-Fold_Interno_2,1.047654030943257,rbf,5,auto,0.6267351708575113
+4,Fold_Externo_2-Fold_Interno_1,77.58194295496662,linear,5,auto,0.6072509671179884
+5,Fold_Externo_2-Fold_Interno_2,10.587196893312955,linear,2,auto,0.6099826724693747
+6,Fold_Externo_3-Fold_Interno_1,13.956838441411712,linear,4,auto,0.6106552224371373
+7,Fold_Externo_3-Fold_Interno_2,26.119723872207835,linear,2,auto,0.6096989845261123
+8,Fold_Externo_4-Fold_Interno_1,2.303096354541734,rbf,5,scale,0.6200241779497098
+9,Fold_Externo_4-Fold_Interno_2,3.1377560548275008,rbf,2,scale,0.6234260154738878

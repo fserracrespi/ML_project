@@ -1,0 +1,11 @@
+,Fold,criterion,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,bootstrap,Accuracy
+0,Fold_Externo_0-Fold_Interno_1,gini,17,100,5,8,sqrt,True,0.6444338330109607
+1,Fold_Externo_0-Fold_Interno_2,entropy,18,40,13,6,sqrt,False,0.6568197936814959
+2,Fold_Externo_1-Fold_Interno_1,gini,17,100,5,8,sqrt,True,0.6484094938749194
+3,Fold_Externo_1-Fold_Interno_2,gini,15,50,13,2,sqrt,False,0.6573903932946485
+4,Fold_Externo_2-Fold_Interno_1,entropy,18,40,13,6,sqrt,False,0.6484038523533204
+5,Fold_Externo_2-Fold_Interno_2,entropy,19,100,8,5,log2,True,0.6542686170212766
+6,Fold_Externo_3-Fold_Interno_1,entropy,14,80,8,5,sqrt,False,0.6484070760799485
+7,Fold_Externo_3-Fold_Interno_2,entropy,18,40,13,6,sqrt,False,0.6412113152804642
+8,Fold_Externo_4-Fold_Interno_1,entropy,19,100,8,5,log2,True,0.6359195680206318
+9,Fold_Externo_4-Fold_Interno_2,entropy,18,40,13,6,sqrt,False,0.6563499355254674
